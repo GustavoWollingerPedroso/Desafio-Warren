@@ -1,14 +1,6 @@
-COMO RODAR A APLICAÇÂO:
-. ter o node ou o vscode instalado
-. no terminal degitar cd Desafios
-para cada atividade digitar:
-. node atividade1, node atividade2, node atividade3
 
-
-
-
-
-
+Para rodar a aplicação é preciso ter o VsCode instalado e digitar o comando "cd Desafios" e para cada atividade digitar o comando node e depois o número da atividade
+Ex: node atividade1
 
 # Desafio-Warren
 
